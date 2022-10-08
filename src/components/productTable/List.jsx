@@ -35,7 +35,6 @@ const List = ({
                     backgroundColor: bgColor,
                     margin: "auto",
                     alignItems: "center",
-                    // justifyContent:
                     width: "100%",
                   }}
                 >
