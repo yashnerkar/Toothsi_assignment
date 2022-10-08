@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./quant.css";
+import "../css/quant.css";
 const Quantity = ({ update, product }) => {
   const [count, setCount] = useState(parseInt(product.quantity));
   const incrementCount = () => {
